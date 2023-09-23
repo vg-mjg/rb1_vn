@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "0322871540c1451e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a50234173a822e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89702b8063e0955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cde31502897c803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RB1 Lessons/Study Material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f899bb554d5601e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeafd6319c38469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab93eda5421db67a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd2b964484e25fc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1633303a361e34c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5507578fdbdf97e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83393137a5f46f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea4d6c126dbc46b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RB1 Lessons/Study Material.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6edb8e98e19a8fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RB1 Lessons/Study Material.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a4b039ac4fe795",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e720e8fb194e52a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RB1 Lessons/Study Material.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7cde31502897c803",
+  "lastOpenFiles": [
+    "_readme.md",
+    "RB1 Lessons/Study Material.md",
+    "RB1 Lessons/Classroom Notes.md",
+    "RB1 Lessons",
+    "Scenario Planning/Story Outlining.canvas",
+    "Scenario Planning",
+    "Planning.md",
+    "images/Untitled.canvas",
+    "images",
+    "New Text Document.txt"
+  ]
+}
